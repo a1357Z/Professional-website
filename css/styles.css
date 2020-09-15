@@ -1,0 +1,96 @@
+body{
+  background-color: #f6f5f5;
+  margin: 0;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+h1{
+font-family: 'Shadows Into Light', cursive;
+font-size: 4rem;
+color:#66BFBF;
+}
+h2{
+  color:#66BFBF;
+}
+h3, a{
+  color:#11999E;
+}
+.top-container p{
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+.middle-container{
+  margin-bottom:50px;
+}
+.bottom-container{
+  margin-top:50px;
+  background-color: #a2d5f2;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 14px;
+}
+.bottom-container div{
+  opacity: 0.6;
+  font-size: 12px;
+}
+.bottom-container p{
+  color:#8d93ab;
+}
+.hacker{
+  height: 300px;
+  width: auto;
+  padding-top: 50px;
+  margin: 30px auto 30px auto;
+}
+.profile{
+  margin-bottom: 50px;
+}
+.skills{
+  margin-top: 50px;
+  margin-bottom: 70px;
+}
+.skill-row{
+  line-height: 2;
+  width: 50%;
+  margin:100px auto;
+  text-align: left;
+}
+
+.computer{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.code{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 3em;
+  border-width: 0.5em;
+  clear: right;
+}
+.button{
+  color: #11999E;
+  font-family: 'Raleway', sans-serif;
+
+}
+.footer-link{
+  margin:10px 30px;
+}
+a:hover{
+  color:#f6f5f5;
+}
+/*.top-cloud{
+position: absolute;
+left:950px;
+top:40px;
+}
+.bottom-cloud{
+position: absolute;
+left:450px;
+top:inherit;
+}*/
